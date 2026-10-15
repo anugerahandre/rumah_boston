@@ -1,8 +1,0 @@
-Flask
-scikit-learn
-pandas
-numpy
-matplotlib
-seaborn
-gunicorn
-prometheus-client==0.22.1
